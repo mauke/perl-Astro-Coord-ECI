@@ -8751,7 +8751,7 @@ The default is 1 (i.e. true).
 
 The author wishes to acknowledge the following individuals.
 
-Dominik Brodowski (L<https://www.brodo.de/>), whose SGP C-lib
+Dominik Brodowski (L<https://www.uni-saarland.de/lehrstuhl/brodowski/team/prof-dr-dominik-brodowski-llm-upenn.html>), whose SGP C-lib
 (available at L<https://www.brodo.de/space/sgp/>) provided a
 reference implementation that I could easily run, and pick
 apart to help get my own code working. Dominik based his work

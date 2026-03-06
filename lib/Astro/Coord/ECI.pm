@@ -4195,7 +4195,7 @@ Geocentric to Geodetic Coordinates", at
 L<http://www.astro.uni.torun.pl/~kb/Papers/geod/Geod-BG.htm>,
 was used for transforming geocentric to geodetic coordinates.
 
-Dominik Brodowski (L<https://www.brodo.de/>), whose SGP C-lib
+Dominik Brodowski (L<https://www.uni-saarland.de/lehrstuhl/brodowski/team/prof-dr-dominik-brodowski-llm-upenn.html>), whose SGP C-lib
 (available at L<https://www.brodo.de/space/sgp/>) provided a
 reference implementation that I could easily run, and pick
 apart to help get B<Astro::Coord::ECI::TLE> working. Dominik based
