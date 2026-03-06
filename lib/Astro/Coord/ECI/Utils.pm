@@ -429,7 +429,7 @@ The inputs are a Perl date and time; $mon is in the range 0 -
 11, and $yr is from 1900, with earlier years being negative. The year 1
 BC is represented as -1900.
 
-If less than 6 arguments are provided, zeroes will be prepended to the
+If less than 6 arguments are provided, zeros will be prepended to the
 argument list as needed.
 
 The date is presumed to be in the Gregorian calendar. If the resultant
@@ -485,7 +485,7 @@ This is a convenience routine that converts the given date to seconds
 since the epoch, going through date2jd() to do so. The arguments are the
 same as those of date2jd().
 
-If less than 6 arguments are provided, zeroes will be prepended to the
+If less than 6 arguments are provided, zeros will be prepended to the
 argument list as needed.
 
 The functionality is similar to C<Time::Local::timegm()>, but the
