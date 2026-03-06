@@ -8180,7 +8180,7 @@ sub _next_elevation_screen {
 #
 #   $ tools/heavens-above-mag --celestrak --update
 #
-# Last-Modified: Sat, 13 Dec 2025 10:01:40 GMT
+# Last-Modified: Thu, 05 Mar 2026 18:31:33 GMT
 
 %magnitude_table = (
   '00694' =>   2.7, # ATLAS CENTAUR 2 R/B
@@ -8322,7 +8322,6 @@ sub _next_elevation_screen {
   '41038' => undef, # YAOGAN 29 has no recorded magnitude
   '41337' => undef, # ASTRO H has no recorded magnitude
   '42758' => undef, # HXMT has no recorded magnitude
-  '43521' => undef, # CZ-2C R/B has no recorded magnitude
   '43641' => undef, # SAOCOM 1-A has no recorded magnitude
   '43682' => undef, # H-2A R/B has no recorded magnitude
   '46265' => undef, # SAOCOM 1-B has no recorded magnitude
