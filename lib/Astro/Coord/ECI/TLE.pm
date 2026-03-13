@@ -8180,7 +8180,7 @@ sub _next_elevation_screen {
 #
 #   $ tools/heavens-above-mag --celestrak --update
 #
-# Last-Modified: Thu, 05 Mar 2026 18:31:33 GMT
+# Last-Modified: Fri, 13 Mar 2026 08:32:31 GMT
 
 %magnitude_table = (
   '00694' =>   2.7, # ATLAS CENTAUR 2 R/B
@@ -8222,7 +8222,6 @@ sub _next_elevation_screen {
   '16792' =>   4.7, # SL-14 R/B
   '16882' =>   4.7, # SL-14 R/B
   '16908' =>   4.2, # EGS (AJISAI)
-  '17295' =>   4.2, # COSMOS 1812
   '17567' =>   4.7, # SL-14 R/B
   '17589' =>   4.7, # COSMOS 1833
   '17590' =>   3.2, # SL-16 R/B
