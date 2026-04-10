@@ -8180,7 +8180,7 @@ sub _next_elevation_screen {
 #
 #   $ tools/heavens-above-mag --celestrak --update
 #
-# Last-Modified: Fri, 13 Mar 2026 08:32:31 GMT
+# Last-Modified: Fri, 10 Apr 2026 01:37:02 GMT
 
 %magnitude_table = (
   '00694' =>   2.7, # ATLAS CENTAUR 2 R/B
@@ -8332,6 +8332,7 @@ sub _next_elevation_screen {
   '54149' => undef, # GSLV R/B has no recorded magnitude
   '57800' => undef, # XRISM has no recorded magnitude
   '59588' =>   2.0, # ACS 3
+  '66174' => undef, # HTV-X1 has no recorded magnitude
   '66515' => undef, # SZ-21 MODULE has no recorded magnitude
 );
 
